@@ -21,6 +21,6 @@ Hello! I'm Harshdeep J. , a 4th-year B.Tech student with a passion for AI and ma
 ## Reach Me 📫
 - **Email**: [[Harshdeep Jadhav](harshdeepvj111@gmail.com)]
 - **LinkedIn**: [[Harshdeep J.](https://www.linkedin.com/in/harshdeep-jadhav/)]
-- **GitHub**: [HarshdeepJ](https://github.com/HarshdeepJ)]
+- **GitHub**: [[HarshdeepJ](https://github.com/HarshdeepJ)]
 
 Feel free to explore my repositories, and let's collaborate on exciting projects!
