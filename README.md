@@ -14,14 +14,13 @@ I am passionate about bridging the gap between theoretical research and real-wor
 
 ### 🧠 Research & Advanced AI
 - **[UAV Navigation in Dynamic Terrains](https://github.com/HarshdeepJ)**: Designed a custom Gymnasium environment for UAVs using Reinforcement Learning to navigate complex 2D terrains with radar/missile threats.
-- **[Automated Compression of SSL Models](https://github.com/HarshdeepJ)**: Developed a framework using Deep Q-Networks (DQN) to automate layer-wise pruning of SimSiam models, achieving 70.7% sparsity.
+- **[Automated Compression of SSL Models](https://github.com/HarshdeepJ/Automated_Compression_via_RL)**: Developed a framework using Deep Q-Networks (DQN) to automate layer-wise pruning of SimSiam models, achieving 70.7% sparsity.
 - **[K_Transformers](https://github.com/HarshdeepJ/K_Transformers)**: Modified Transformer architecture by replacing MLPs with Kolmogorov-Arnold Networks (KAN).
 - **[Quantum Image Compression](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13391/1339117/Image-compression-using-quantum-wavelet-transforms/10.1117/12.3056452.short)**: Implemented Quantum Haar Wavelets for image compression (4:1 ratio), accepted at **SPIE Quantum West 2025**.
 
 ### 🛠️ Applications & Tools
 - **[Object_Volume_Detector](https://github.com/HarshdeepJ/Object_Volume_Detector)**: Computer vision system estimating object dimensions using bounding box detection and depth data.
 - **[FinFriend (Finance Advisor)](https://github.com/HarshdeepJ)**: A RAG-based financial chatbot with web-research capabilities and video recommendations (Hackathon Project).
-- **[Project_Subreddit](https://github.com/HarshdeepJ)**: NLP model predicting the subreddit channel of a given post/comment.
 
 ## Skills 🛠️
 - **Languages**: Python, C/C++, Java, SQL
