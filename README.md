@@ -12,7 +12,7 @@ I am passionate about bridging the gap between theoretical research and real-wor
 
 ## Projects 🚀
 
-### 🧠 Research & Advanced AI
+### 🧠 Research Projects
 - **[UAV Navigation in Dynamic Terrains](https://github.com/HarshdeepJ)**: Designed a custom Gymnasium environment for UAVs using Reinforcement Learning to navigate complex 2D terrains with radar/missile threats.
 - **[Automated Compression of SSL Models](https://github.com/HarshdeepJ/Automated_Compression_via_RL)**: Developed a framework using Deep Q-Networks (DQN) to automate layer-wise pruning of SimSiam models, achieving 70.7% sparsity.
 - **[K_Transformers](https://github.com/HarshdeepJ/K_Transformers)**: Modified Transformer architecture by replacing MLPs with Kolmogorov-Arnold Networks (KAN).
