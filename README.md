@@ -31,6 +31,5 @@ I am passionate about bridging the gap between theoretical research and real-wor
 ## Reach Me 📫
 - **Email**: [harshdeepvj111@gmail.com](mailto:harshdeepvj111@gmail.com)
 - **LinkedIn**: [Harshdeep Jadhav](https://www.linkedin.com/in/harshdeep-jadhav/)
-- **GitHub**: [HarshdeepJ](https://github.com/HarshdeepJ)
 
 Feel free to explore my repositories and reach out for collaborations!
