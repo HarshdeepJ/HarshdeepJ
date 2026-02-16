@@ -20,7 +20,7 @@ I am passionate about bridging the gap between theoretical research and real-wor
 
 ### 🛠️ Applications & Tools
 - **[Object_Volume_Detector](https://github.com/HarshdeepJ/Object_Volume_Detector)**: Computer vision system estimating object dimensions using bounding box detection and depth data.
-- **[FinFriend (Finance Advisor)](https://github.com/HarshdeepJ)**: A RAG-based financial chatbot with web-research capabilities and video recommendations (Hackathon Project).
+- **[FinFriend (Finance Advisor)](https://github.com/prachi-0319/gdsc)**: A RAG-based financial chatbot with web-research capabilities and video recommendations (Hackathon Project).
 
 ## Skills 🛠️
 - **Languages**: Python, C/C++, Java, SQL
