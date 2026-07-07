@@ -20,7 +20,7 @@ I'm passionate about bridging theoretical research and real-world applications, 
 - **[Automated Compression of SSL Models](https://github.com/HarshdeepJ/Automated_Compression_via_RL)**: Developed a framework using Deep Q-Networks (DQN) to automate layer-wise pruning of SimSiam models, achieving 70.7% sparsity with a +6.69% accuracy improvement over the dense baseline.
 - **[K_Transformers](https://github.com/HarshdeepJ/K_Transformers)**: Modified Transformer architecture by replacing MLPs with Kolmogorov-Arnold Networks (KAN).
 - **[Quantum Image Compression](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13391/1339117/Image-compression-using-quantum-wavelet-transforms/10.1117/12.3056452.short)**: Implemented Quantum Haar Wavelets for image compression (4:1 ratio), accepted at **SPIE Quantum West 2025**.
-- **Delay Efficient Distributed Computation over a Rectangular Grid**: Accepted for publication and presentation at **PCDS 2025** (IEEE Xplore).
+- **[Delay Efficient Distributed Computation over a Rectangular Grid](https://ieeexplore.ieee.org/document/11415274)**: Accepted for publication and presentation at **PCDS 2025** (IEEE Xplore).
 
 ### 🛠️ Robotics & Applications
 - **[Project ANCHOR](https://github.com/Runtime-Terrors-v2/Anchor-Watch-App)**: A distributed HarmonyOS safety system across smartwatch and smartphone with real-time WearEngine P2P sync (<200ms latency) and sensor-fusion-based false-alarm suppression. **Finalist**, Huawei Wearable App Challenge (40+ teams).
